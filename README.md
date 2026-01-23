@@ -1,3 +1,4 @@
+Note: If GitHub fails to render the notebook, you can view it here on nbviewer.
 # Suez-Dutch_disease-Egypt.
 An econometric analysis of Dutch disease in Egypt: Quantifying the Transmission of Suez Canal Rents to the Industrial Sector via REER Volatility (VECM Approach).
 # Suez Canal Rents and Dutch Disease in Egypt (2016-2024)
