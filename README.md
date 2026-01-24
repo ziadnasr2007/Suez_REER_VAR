@@ -43,7 +43,7 @@ Rather than testing for a full deindustrialization mechanism, the analysis focus
 | **ADF Unit Root Tests** | All variables are *I(1)* | Supports cointegration analysis |
 | **Johansen Trace Test** | *r = 1* (p < 0.05) | One stable long-run relationship |
 | **Lag Selection** | 2 lags (AIC) | Optimal balance of fit and parsimony |
-| **Durbin–Watson Statistic** | ≈ 2.0 (all equations) | No residual autocorrelation; IRFs valid |
+| **Durbin–Watson Statistic** | ≈ 2.0 (all equations) | No residual autocorrelation; residuals appear well-behaved for IRFs |
 
 ---
 
