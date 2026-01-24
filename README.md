@@ -1,4 +1,6 @@
-> **Note:** If GitHub fails to render the notebook, you can [view the full analysis here on Google Colab](https://colab.research.google.com/github/ziadnasr2007/Suez-Dutch_disease-Egypt/blob/main/Projectt.ipynb).
+## 📄 Quick Access
+> **[Google Colab (Backup)](https://colab.research.google.com/github/ziadnasr2007/Suez-Dutch_disease-Egypt/blob/main/Projectt.ipynb)**.
+> **[Download Research PDF (Recommended)](./Suez_Dutch_Disease_Research.pdf)** - *Best for a quick review of results and graphs.*
 # Suez-Dutch_disease-Egypt.
 An econometric analysis of Dutch disease in Egypt: Quantifying the Transmission of Suez Canal Rents to the Industrial Sector via REER Volatility (VECM Approach).
 # Suez Canal Rents and Dutch Disease in Egypt (2016-2024)
