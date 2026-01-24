@@ -53,7 +53,7 @@ Rather than testing for a full deindustrialization mechanism, the analysis focus
 1. Clone the repository:
    ```bash
    git clone https://github.com/ziadnasr2007/Suez-Dutch_disease-Egypt.git
-````
+```
 
 2. Navigate to the project directory:
 
