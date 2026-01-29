@@ -1,6 +1,8 @@
 # 🇪🇬 Egypt Dutch Disease Analysis (2016–2025)
 ### *A Vector Autoregression (VAR) Approach to Rentier Inflows*
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EntjELuJf9GlZ1WTkEiDPYH09oLcMD6G)
+
 ---
 
 ## Project Overview
@@ -62,6 +64,26 @@ The repository includes impulse response functions and variance decomposition pl
 These visualizations reinforce the conclusion of high exchange-rate elasticity with limited real-sector transmission.
 
 ---
+## ▶️ Run the Analysis in Google Colab (No Local Setup Required)
+
+The full econometric analysis notebook can be accessed and executed directly in **Google Colab**, allowing users to reproduce all results without installing Python locally.
+
+👉 **Open the notebook in Colab:**  
+[Open in Google Colab](https://colab.research.google.com/drive/1EntjELuJf9GlZ1WTkEiDPYH09oLcMD6G#scrollTo=bbf9d26d-6002-4a83-af2d-1b66f192838f)
+
+### Instructions
+1. Click the link above to open the notebook in Google Colab.
+2. If prompted, sign in with a Google account.
+3. Select **Runtime → Run all** to execute the full analysis.
+4. The notebook will reproduce:
+   - Data preprocessing and transformations
+   - Stationarity tests
+   - VAR estimation and diagnostics
+   - Granger causality tests
+   - Impulse Response Functions (IRF & GIRF)
+   - Forecast Error Variance Decomposition (FEVD)
+
+All computations are performed in the cloud, ensuring full reproducibility across systems.
 
 ## Installation & Usage
 
