@@ -62,7 +62,7 @@ The empirical results identify a **High-Elasticity, Low-Transmission form of Dut
 
 ### Impulse Response: Exchange Rate → Manufacturing
 
-![IRF: REER to Manufacturing](outputs/figures/IRF_REER-Manufacturing%28Rent%29.png)
+![IRF: REER to Manufacturing](outputs/figures/IRF_REER-Manufacturing(Rent).png)
 
 
 ### Forecast Error Variance Decomposition (Manufacturing)
