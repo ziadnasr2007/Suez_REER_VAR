@@ -68,6 +68,7 @@ The empirical results identify a **High-Elasticity, Low-Transmission form of Dut
 
 ![FEVD Manufacturing](outputs/figures/FEVD(Rent).png)
 
+
 The repository includes impulse response functions and variance decomposition plots illustrating:
 - The short-lived but statistically significant response of the REER to rent shocks
 - The weak and transitory response of manufacturing output to exchange-rate movements
@@ -101,3 +102,6 @@ All computations are performed in the cloud, ensuring full reproducibility acros
 ```bash
 git clone https://github.com/ziadnasr2007/Suez_REER_VAR.git
 pip install -r requirements.txt
+
+
+[def]: outputs/figures/FEVD(Rent).png
