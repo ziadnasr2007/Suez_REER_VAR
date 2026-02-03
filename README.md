@@ -45,10 +45,10 @@ All results are interpreted as **short-run dynamics**; no long-run equilibrium i
 The empirical results identify a **High-Elasticity, Low-Transmission form of Dutch Disease** in Egypt:
 
 - **Strong Spending Effect:**  
-  Shocks to aggregate rentier inflows explain **31.4%** of the forecast error variance of the REER, indicating that Egypt’s exchange rate is structurally anchored to external hard-currency inflows.
+  Shocks to aggregate rentier inflows explain approximately **43.1%** of the forecast error variance of the REER, indicating that Egypt’s exchange rate is structurally anchored to external hard-currency inflows.
 
 - **Muted Real-Sector Transmission:**  
-  Despite pronounced exchange-rate sensitivity, REER shocks explain only **6.8%** of manufacturing output volatility. Manufacturing dynamics are instead dominated by sector-specific shocks.
+  Despite pronounced exchange-rate sensitivity, REER and Suez canal shocks explain less than **7%** of manufacturing output volatility. Manufacturing dynamics are instead dominated by sector-specific shocks.
 
 - **Structural Interpretation — A “Natural Hedge”:**  
   The absence of significant Granger causality from the REER to manufacturing output suggests that the negative competitiveness effects of currency appreciation are offset by lower input costs. This pattern is consistent with Egypt’s **import-dependent industrial structure**, where cheaper imported intermediate goods partially neutralize Dutch Disease pressures in the short run.
