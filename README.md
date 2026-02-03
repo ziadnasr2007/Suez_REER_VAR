@@ -56,18 +56,18 @@ The empirical results identify a **High-Elasticity, Low-Transmission form of Dut
 ---
 
 ## Visual Evidence
-### Impulse Response: Rent → Exchange Rate
-
-![IRF: Rent to REER](outputs/figures/IRF_Rent-REER.png)
+### Impulse Response: Suez Canal → Exchange Rate
+ 
+![IRF: Suez Canal to REER](outputs/figures/Paper_Graphs/1_Baseline_IRF_Suez_to_REER.png)
 
 ### Impulse Response: Exchange Rate → Manufacturing
 
-![IRF: REER to Manufacturing](outputs/figures/IRF_REER_Manufacturing_Rent.png)
+![IRF: REER to Manufacturing](outputs/figures/Paper_Graphs/2_Baseline_IRF_REER_to_Manuf.png)
 
 
 ### Forecast Error Variance Decomposition (Manufacturing)
 
-![FEVD Manufacturing](outputs/figures/FEVD(Rent).png)
+![FEVD Manufacturing](outputs/figures/Paper_Graphs/3_Baseline_FEVD_Combined.png)
 
 
 The repository includes impulse response functions and variance decomposition plots illustrating:
